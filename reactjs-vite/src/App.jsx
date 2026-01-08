@@ -7,9 +7,9 @@ import ThemeColors from './Features/ThemeColor';
 function App() {
   return (
     <>
-      <Profile/>
-      <FormsFeatures/>
-      <ThemeColors/>
+      <Profile />
+      <FormsFeatures />
+      <ThemeColors />
     </>
   )
 }
